@@ -1,0 +1,91 @@
+/* BACKGROUND IMAGE */
+
+.section-a {
+    background-image: url(/Media/section-a.jpg);
+}
+
+.section-b {
+    background-image: url(/Media/section-b.jpg);
+}
+
+.section-c {
+    background-image: url(/Media/section-c.jpg);
+}
+
+.section-d {
+    background-image: url(/Media/section-d.jpg);
+}
+
+.section-e {
+    background-image: url(/Media/section-e.jpg);
+}
+
+.section-f {
+    background-image: url(/Media/section-f.jpg);
+}
+
+
+.section-inner {
+    position: absolute;
+    bottom: 140px;
+    left: 100px;
+    max-width: 560px;
+}
+
+.section-inner h4 {
+    font-size: 22px;
+    margin-bottom: 5px;
+    font-weight: 300;
+    text-transform: uppercase;
+    animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+.section-inner h2 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    animation: fadeIn 0.5s ease-in-out forwards 0.2s;
+    animation-fill-mode: both;
+}
+
+.section-inner a {
+    animation: fadeIn 0.5s ease-in-out forwards 0.4s;
+    animation-fill-mode: both;
+}
+
+.btn {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    min-width: 130px;
+    padding: 15px 50px;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    overflow: hidden;
+    z-index: 2;
+
+}
+
+.btn:hover span {
+    color: #000;
+}
+
+.btn .hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    color: #000;
+    z-index: -1;
+    transform: translateY(100%);
+    transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.btn:hover .hover {
+    transform: translateY(0);
+}

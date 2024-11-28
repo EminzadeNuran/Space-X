@@ -1,0 +1,40 @@
+.bg-starship{
+    background-image: url(/Media/Starhip_website-bg.jpg);
+}
+
+.slide-1 {
+background-image: url(/Media/slide2-starship.jpg);
+}
+
+.slide-2 {  
+ background-image: url(/Media/slide1-starship.jpg);
+}
+
+.slide-3 {
+background-image: url(/Media/slide3-starship.jpg);
+}
+
+.slide-4 {  
+ background-image: url(/Media/slide4-starship.jpg);
+}
+
+.table-text{
+    width: 40%;
+    letter-spacing: 2px;
+    margin: 30px 0;
+    font-size: 14px;
+}
+
+.bg-starship-video{
+    background-image: url(/Media/starship-video-iamge.jpg);
+}
+.bg-starship-capablities{
+    background-image: url(/Media/STARSHIP_CAPABILITIES_MAIN.jpg);
+}
+.bg-starship-refilling{
+    background-image: url(/Media/STARSHIP_ON-ORBIT_REFILLING.jpg);
+}
+
+.bg-starship-starbase{
+    background-image: url(/Media/Starbase.jpg);
+}

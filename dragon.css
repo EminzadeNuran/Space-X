@@ -1,0 +1,21 @@
+.bg-dragon{
+    background-image: url(/Media/dragon_feature.jpg);
+}
+
+.slide-1 {
+    background-image: url(/Media/dragon_slide1.png);
+}
+.slide-2 {
+    background-image: url(/Media/dragon_slide2.png);
+}
+.slide-3 {
+    background-image: url(/Media/dragon_slide3.png);
+}
+
+.bg-dragon-video{
+    background-image: url(/Media/dragon_video.jpg);
+}
+.bg-dragon-human{
+    background-image: url(/Media/dragon_humans.jpg);
+}
+

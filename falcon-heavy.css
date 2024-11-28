@@ -1,0 +1,32 @@
+.bg-falcon-heavy {
+    background-image: url(/Media/fh_feature.jpg);
+}
+
+.slide-1 {
+    background-image: url(/Media/roket1-Heavy.jpg);
+}
+
+.slide-2 {
+    background-image: url(/Media/roket2-Heavy.jpg);
+}
+
+.slide-3 {
+    background-image: url(/Media/roket3-Heavy.jpg);
+}
+
+.slide-4 {
+    background-image: url(/Media/roket4-Heavy.jpg);
+}
+
+.slide-5 {
+    background-image: url(/Media/roket5-Heavy.jpg);
+}
+
+.bg-falcon-heavy-video {
+    background-image: url(/Media/fh_video.jpg);
+}
+
+.bg-falcon-9-heavy-engine {
+    background-image: url(/Media/sealevel.jpg);
+}
+
